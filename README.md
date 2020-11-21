@@ -1,2 +1,1 @@
-# sarahdialmeida-resume
-My resume
+![](https://lh3.googleusercontent.com/wQZnumt530XZ_NMFQ38EZdGrOsRN_ZzMZALh2PMo5j7JqCne8fhCZj3FCO0LaFp9DGfi4Lf7bIlN76dY1LXAOpOiMyyuS0rJwAl9WLGynwOvbTOzri9iRhV1zpmS_Bv4kla-gtm4NA=w2400)

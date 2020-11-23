@@ -1,4 +1,14 @@
+.container {
+  display: flex;
+  padding: 50px;
+  width: 100%;
+}
+
 img {
-		max-width: 100%;
-		height: auto;
+  margin: auto;
+  display: block;
+  max-width: 60%;
+  height: auto;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  border: 0.5px solid black;
 }

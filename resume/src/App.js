@@ -2,9 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="container">
 		<img alt="" src="/assets/resume.png"/>
-	
 	</div>
   );
 }

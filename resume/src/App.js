@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-		<img src="/assets/resume.png"/>
+		<img alt="" src="/assets/resume.png"/>
 	
 	</div>
   );
